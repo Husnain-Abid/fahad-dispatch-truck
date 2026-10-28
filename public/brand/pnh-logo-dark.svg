@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 64" width="360" height="64" role="img" aria-label="Prime Nation Haul logo">
+  <title>Prime Nation Haul</title>
+  <g transform="translate(0,8)">
+    <rect x="0.75" y="0.75" width="46.5" height="46.5" rx="3" fill="#101D32"/>
+    <rect x="0.75" y="0.75" width="46.5" height="46.5" rx="3" fill="none" stroke="#C6A45C" stroke-opacity="0.75" stroke-width="1.5"/>
+    <path d="M10 34.5 24 13l14 21.5h-6.4L24 23.6 16.4 34.5H10Z" fill="#C6A45C"/>
+    <path d="M19.2 30.2h9.6L24 22.4l-4.8 7.8Z" fill="#101D32"/>
+    <path d="M15 38.4h18" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="1.4"/>
+    <path d="M20 41.4h8" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.4"/>
+  </g>
+  <text x="64" y="31" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" letter-spacing="2.6" fill="#101D32">PRIME NATION <tspan fill="#A07C33">HAUL</tspan></text>
+  <text x="64" y="47" font-family="Helvetica, Arial, sans-serif" font-size="6.2" font-weight="500" letter-spacing="2.3" fill="#687386">TRUCK DISPATCH &amp; CARRIER SUPPORT</text>
+</svg>
