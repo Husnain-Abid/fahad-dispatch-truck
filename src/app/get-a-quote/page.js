@@ -19,7 +19,7 @@ export const metadata = {
     description:
       "Tell us about your trucks and lanes. Prime Nation Haul will confirm available services and pricing for your operation.",
     url: "/get-a-quote",
-    images: ["/images/dispatch-workstation.jpg"],
+    images: ["/images/dispatch-workstation.png"],
   },
 };
 
@@ -45,7 +45,7 @@ export default async function GetAQuotePage({ searchParams }) {
         }
         description="Prime Nation Haul quotes each carrier individually. Share a few details about your trucks and the support you need, and our team will follow up with the services available and pricing for your arrangement."
         breadcrumbs={[{ label: "Get a Quote", href: "/get-a-quote" }]}
-        image="/images/dispatch-workstation.jpg"
+        image="/images/dispatch-workstation.png"
         imageAlt="Freight dispatch workstation with route maps on monitors"
       >
         <Button href={siteConfig.phone.href} size="lg" icon="none" gaEvent="click_to_call" gaLabel="Quote hero call">

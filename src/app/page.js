@@ -22,7 +22,7 @@ export const metadata = {
     description:
       "Reliable truck dispatching and carrier support for owner-operators and fleets across the United States.",
     url: "/",
-    images: ["/images/hero-interstate.jpg"],
+    images: ["/images/hero-interstate.png"],
   },
 };
 

@@ -16,7 +16,7 @@ export const metadata = {
     description:
       "Practical guides on dispatching, load evaluation, and carrier onboarding preparation.",
     url: "/blog",
-    images: ["/images/services/dry-van-reefer.jpg"],
+    images: ["/images/services/dry-van-reefer.png"],
   },
 };
 
@@ -35,7 +35,7 @@ export default function BlogPage() {
         }
         description="Short, useful articles about dispatch work, load evaluation, and preparing your operation for smoother onboarding. Written to inform, not to sell."
         breadcrumbs={[{ label: "Blog", href: "/blog" }]}
-        image="/images/services/dry-van-reefer.jpg"
+        image="/images/services/dry-van-reefer.png"
         imageAlt="Semi-truck and trailer on an interstate highway"
       >
         <Button href="/get-a-quote" size="lg">

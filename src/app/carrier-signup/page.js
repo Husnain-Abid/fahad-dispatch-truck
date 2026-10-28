@@ -17,7 +17,7 @@ export const metadata = {
     description:
       "An onboarding inquiry for owner-operators, small fleets, and large fleets interested in truck dispatching support.",
     url: "/carrier-signup",
-    images: ["/images/fleet-yard.jpg"],
+    images: ["/images/fleet-yard.png"],
   },
 };
 
@@ -37,7 +37,7 @@ export default async function CarrierSignupPage({ searchParams }) {
         }
         description="This is an onboarding inquiry, not a carrier portal. Share the basics about your operation and our team will follow up to discuss fit, documentation, and the next steps."
         breadcrumbs={[{ label: "Carrier Signup", href: "/carrier-signup" }]}
-        image="/images/fleet-yard.jpg"
+        image="/images/fleet-yard.png"
         imageAlt="Semi-trucks parked at a terminal during golden hour"
       >
         <Button href="/get-a-quote" size="lg">

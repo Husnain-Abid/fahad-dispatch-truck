@@ -1,7 +1,7 @@
 export const truckTypes = [
   {
     name: "Box Truck",
-    image: "/images/services/box-truck.jpg",
+    image: "/images/services/box-truck.png",
     alt: "White box truck driving on a commercial road in morning light",
     summary:
       "Regional and local freight that fits straight-truck capacity, from retail restocks to business deliveries.",
@@ -9,7 +9,7 @@ export const truckTypes = [
   },
   {
     name: "Hotshot",
-    image: "/images/services/hotshot.jpg",
+    image: "/images/services/hotshot.png",
     alt: "Heavy-duty pickup truck with a hotshot flatbed trailer on a rural highway",
     summary:
       "Time-sensitive flatbed and equipment freight that calls for a fast, flexible setup.",
@@ -17,7 +17,7 @@ export const truckTypes = [
   },
   {
     name: "Dry Van & Reefer",
-    image: "/images/services/dry-van-reefer.jpg",
+    image: "/images/services/dry-van-reefer.png",
     alt: "Semi-truck pulling a refrigerated trailer on an interstate highway",
     summary:
       "General freight and temperature-controlled loads across regional and long-haul lanes.",
@@ -25,7 +25,7 @@ export const truckTypes = [
   },
   {
     name: "Power Only & Semi",
-    image: "/images/services/power-only.jpg",
+    image: "/images/services/power-only.png",
     alt: "Navy blue semi-tractor parked on concrete at a logistics terminal",
     summary:
       "Tractor-only capacity for trailer moves, drop-and-hook freight, and dedicated assignments.",

@@ -17,7 +17,7 @@ export const metadata = {
     description:
       "Five years of dispatching experience serving owner-operators, small fleets, and large fleets across the United States.",
     url: "/about",
-    images: ["/images/fleet-yard.jpg"],
+    images: ["/images/fleet-yard.png"],
   },
 };
 
@@ -57,7 +57,7 @@ export default function AboutPage() {
         }
         description="Prime Nation Haul is a US-focused truck dispatching and carrier support company. We help owner-operators, small fleets, and large fleets keep freight, communication, and paperwork moving."
         breadcrumbs={[{ label: "About", href: "/about" }]}
-        image="/images/fleet-yard.jpg"
+        image="/images/fleet-yard.png"
         imageAlt="Semi-trucks parked in a terminal lot at golden hour"
       >
         <Button href="/get-a-quote" size="lg">
@@ -113,7 +113,7 @@ export default function AboutPage() {
             <div className="relative">
               <div className="relative aspect-[4/3] w-full overflow-hidden bg-navy">
                 <Image
-                  src="/images/dispatch-workstation.jpg"
+                  src="/images/dispatch-workstation.png"
                   alt="Dispatcher workstation with route maps displayed on monitors"
                   fill
                   sizes="(max-width: 1024px) 90vw, 45vw"

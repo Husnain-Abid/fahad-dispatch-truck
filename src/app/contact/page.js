@@ -16,7 +16,7 @@ export const metadata = {
     description:
       "Call 316 376 9718 or send a message about truck dispatching, load booking, and carrier support.",
     url: "/contact",
-    images: ["/images/road-night.jpg"],
+    images: ["/images/road-night.png"],
   },
 };
 
@@ -33,7 +33,7 @@ export default function ContactPage() {
         }
         description="Talk with our dispatch team about your trucks, lanes, and the support you need. Call directly or send a message and we will follow up with next steps."
         breadcrumbs={[{ label: "Contact", href: "/contact" }]}
-        image="/images/road-night.jpg"
+        image="/images/road-night.png"
         imageAlt="Interstate highway light trails at night"
       >
         <Button href={siteConfig.phone.href} size="lg" icon="none" gaEvent="click_to_call" gaLabel="Contact hero call">

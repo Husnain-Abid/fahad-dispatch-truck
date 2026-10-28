@@ -113,7 +113,7 @@ returns `422` with field errors; malformed JSON returns `400`; honeypot submissi
 - [ ] Review draft blog posts and remove the “editorial draft” review notes once approved.
 - [ ] Have legal counsel review `/privacy-policy` and `/terms-of-service` (both marked draft).
 - [ ] Publish testimonials only after written customer approval (`src/data/testimonials.js`).
-- [ ] Add an Open Graph image if desired (currently `/images/hero-interstate.jpg`).
+- [ ] Add an Open Graph image if desired (currently `/images/hero-interstate.png`).
 - [ ] Verify one `<h1>` per page and descriptive image alt text (already implemented).
 - [ ] Do **not** add LocalBusiness/address schema until a real, approved address exists.
 - [ ] Confirm the public email (`NEXT_PUBLIC_CONTACT_EMAIL`) before launch.

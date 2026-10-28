@@ -7,7 +7,7 @@ export const blogPosts = [
       "Dispatching is often described as simply finding loads. In practice, it is a communication and documentation role with clear limits. Here is a practical breakdown for owner-operators and small fleets.",
     readTime: "6 min read",
     publishedAt: "2025-02-18",
-    image: "/images/dispatch-workstation.jpg",
+    image: "/images/dispatch-workstation.png",
     imageAlt: "Dispatcher workstation with route maps on monitors",
     reviewNote:
       "Editorial draft. Review with the Prime Nation Haul team before publication and refresh any references to market conditions.",
@@ -64,7 +64,7 @@ export const blogPosts = [
       "A strong rate can still be a bad load. This checklist covers the operational details worth confirming before you accept a booking and start planning your day around it.",
     readTime: "7 min read",
     publishedAt: "2025-03-11",
-    image: "/images/services/dry-van-reefer.jpg",
+    image: "/images/services/dry-van-reefer.png",
     imageAlt: "Semi-truck with a reefer trailer traveling on an interstate",
     reviewNote:
       "Editorial draft. Confirm internal dispatch preferences and any cited operational standards before publication.",
@@ -120,7 +120,7 @@ export const blogPosts = [
       "Onboarding delays usually come from missing documents rather than missing qualifications. Use this general preparation list to keep the setup process moving and expectations clear.",
     readTime: "5 min read",
     publishedAt: "2025-04-08",
-    image: "/images/fleet-yard.jpg",
+    image: "/images/fleet-yard.png",
     imageAlt: "Row of parked semi-trucks in a terminal lot at golden hour",
     reviewNote:
       "Editorial draft. Verify document lists against current broker requirements and Prime Nation Haul onboarding procedures before publication.",

@@ -19,7 +19,7 @@ export const metadata = {
     description:
       "Contact-based pricing for truck dispatching and carrier support. Every arrangement is quoted to the carrier's specific operation.",
     url: "/pricing",
-    images: ["/images/services/power-only.jpg"],
+    images: ["/images/services/power-only.png"],
   },
 };
 
@@ -100,7 +100,7 @@ export default function PricingPage() {
         }
         description="Prime Nation Haul does not publish flat rates, percentage fees, or discounts. Dispatching arrangements vary by carrier, so we quote individually and confirm the details with you in writing before work starts."
         breadcrumbs={[{ label: "Pricing", href: "/pricing" }]}
-        image="/images/services/power-only.jpg"
+        image="/images/services/power-only.png"
         imageAlt="Navy semi-truck tractor parked at a logistics terminal at blue hour"
       >
         <Button href="/get-a-quote" size="lg">

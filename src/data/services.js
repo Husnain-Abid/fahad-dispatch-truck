@@ -98,7 +98,7 @@ export const serviceDetails = [
     tagline: "Freight that fits your truck, your lanes, and your schedule.",
     summary:
       "Load booking is the core of dispatch. We look for freight that matches your equipment and preferred operating area, present the details clearly, and coordinate the booking once you approve it.",
-    image: "/images/services/dry-van-reefer.jpg",
+    image: "/images/services/dry-van-reefer.png",
     imageAlt:
       "Semi-truck pulling a white reefer trailer along an interstate highway",
     intro: [
@@ -136,7 +136,7 @@ export const serviceDetails = [
     tagline: "A calmer, better-informed conversation about every rate.",
     summary:
       "We negotiate on your behalf using the details you provide — your costs, your lanes, and the realities of the load — and we confirm every number with you before it becomes an agreement.",
-    image: "/images/services/power-only.jpg",
+    image: "/images/services/power-only.png",
     imageAlt: "Navy blue semi-truck tractor parked on concrete at a logistics terminal",
     intro: [
       "Rate negotiation is more than asking for more money. It is about knowing what a load actually requires, understanding the market context, and being ready to walk away when the numbers do not work.",
@@ -173,7 +173,7 @@ export const serviceDetails = [
     tagline: "Get your electronic logs connected and your records organized.",
     summary:
       "Practical help with device setup, driver profile configuration, and keeping electronic logging records organized in day-to-day operations.",
-    image: "/images/dispatch-workstation.jpg",
+    image: "/images/dispatch-workstation.png",
     imageAlt: "Professional dispatching workstation with monitors and a headset",
     intro: [
       "Electronic logging devices are part of operating a compliant trucking business. Setup issues and misconfigured profiles can create avoidable friction for drivers and carriers alike.",
@@ -210,7 +210,7 @@ export const serviceDetails = [
     tagline: "Organized documentation and practical next steps.",
     summary:
       "We help carriers keep their authority and operating documents organized and understand what to prepare, while being clear about where qualified professional guidance is required.",
-    image: "/images/fleet-yard.jpg",
+    image: "/images/fleet-yard.png",
     imageAlt: "Row of semi-trucks and dry van trailers at a terminal at golden hour",
     intro: [
       "Compliance paperwork is a common source of delay for new and growing carriers. Missing documents or inconsistent records can slow down onboarding and broker setup.",
@@ -247,7 +247,7 @@ export const serviceDetails = [
     tagline: "Coverage beyond the load: dispatch, paperwork, and coordination.",
     summary:
       "A connected set of support services for the parts of trucking that happen around the drive — from 24/7 dispatch communication to insurance, factoring, permit, and paperwork assistance.",
-    image: "/images/hero-interstate.jpg",
+    image: "/images/hero-interstate.png",
     imageAlt: "Semi-truck and dry van trailer traveling on an interstate highway at dusk",
     intro: [
       "Owner-operators and small fleets often handle dispatch, billing, permits, and paperwork between driving hours. It is a lot to carry, and small gaps can turn into delayed settlements or missed details.",

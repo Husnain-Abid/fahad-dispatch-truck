@@ -16,7 +16,7 @@ export const metadata = {
     description:
       "Approved client feedback about Prime Nation Haul dispatching and carrier support will be published here.",
     url: "/testimonials",
-    images: ["/images/dispatch-workstation.jpg"],
+    images: ["/images/dispatch-workstation.png"],
   },
   robots: { index: false, follow: true },
 };
@@ -36,7 +36,7 @@ export default function TestimonialsPage() {
         }
         description="Prime Nation Haul publishes reviews only with the customer's written approval. No names, ratings, or quotes are displayed on this site until that approval is on file."
         breadcrumbs={[{ label: "Testimonials", href: "/testimonials" }]}
-        image="/images/dispatch-workstation.jpg"
+        image="/images/dispatch-workstation.png"
         imageAlt="Freight dispatching workstation in a low-lit office"
       >
         <Button href="/contact" size="lg">

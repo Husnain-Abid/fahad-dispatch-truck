@@ -18,7 +18,7 @@ export const metadata = {
     description:
       "Common questions about truck dispatching services, carrier onboarding, pricing, and support from Prime Nation Haul.",
     url: "/faq",
-    images: ["/images/hero-interstate.jpg"],
+    images: ["/images/hero-interstate.png"],
   },
 };
 
@@ -46,7 +46,7 @@ export default function FaqPage() {
         }
         description="How dispatching works, what we support, how onboarding and pricing are handled, and what our paperwork assistance does — and does not — cover."
         breadcrumbs={[{ label: "FAQ", href: "/faq" }]}
-        image="/images/hero-interstate.jpg"
+        image="/images/hero-interstate.png"
         imageAlt="Semi-truck traveling on an interstate at dusk"
       >
         <Button href="/get-a-quote" size="lg">

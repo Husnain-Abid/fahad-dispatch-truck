@@ -19,7 +19,7 @@ export const metadata = {
     description:
       "Load booking, rate negotiation, 24/7 dispatch support, ELD setup, DOT compliance assistance, and carrier support services for US carriers.",
     url: "/services",
-    images: ["/images/services/dry-van-reefer.jpg"],
+    images: ["/images/services/dry-van-reefer.png"],
   },
 };
 
@@ -59,7 +59,7 @@ export default function ServicesPage() {
         }
         description="Prime Nation Haul supports the parts of trucking that sit around the drive: sourcing freight, negotiating rates, coordinating documents, and keeping the communication clear."
         breadcrumbs={[{ label: "Services", href: "/services" }]}
-        image="/images/services/dry-van-reefer.jpg"
+        image="/images/services/dry-van-reefer.png"
         imageAlt="Semi-truck pulling a refrigerated trailer on an interstate"
       >
         <Button href="/get-a-quote" size="lg">

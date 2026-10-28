@@ -17,7 +17,7 @@ export default function CTASection({
   return (
     <section className="relative overflow-hidden bg-ink">
       <Image
-        src="/images/road-night.jpg"
+        src="/images/road-night.png"
         alt="Interstate highway light trails at night"
         fill
         sizes="100vw"

@@ -32,7 +32,7 @@ export function IntroSection() {
             />
             <div className="relative aspect-[4/5] w-full overflow-hidden bg-navy">
               <Image
-                src="/images/fleet-yard.jpg"
+                src="/images/fleet-yard.png"
                 alt="Row of semi-trucks and trailers parked at a clean terminal at golden hour"
                 fill
                 sizes="(max-width: 1024px) 90vw, 40vw"
@@ -297,7 +297,7 @@ export function WhyUsSection() {
           <div className="relative">
             <div className="relative aspect-[4/3] w-full overflow-hidden bg-navy">
               <Image
-                src="/images/dispatch-workstation.jpg"
+                src="/images/dispatch-workstation.png"
                 alt="Freight dispatch workstation with route maps on monitors and a headset"
                 fill
                 sizes="(max-width: 1024px) 90vw, 45vw"

@@ -61,7 +61,7 @@ export default function Hero() {
       {reduce ? (
         <div className="absolute inset-0">
           <Image
-            src="/images/hero-interstate.jpg"
+            src="/images/hero-interstate.png"
             alt="Semi-truck with a dry van trailer traveling on an interstate highway at dusk"
             fill
             priority
@@ -79,7 +79,7 @@ export default function Hero() {
           transition={{ duration: 1.8, ease }}
         >
           <Image
-            src="/images/hero-interstate.jpg"
+            src="/images/hero-interstate.png"
             alt="Semi-truck with a dry van trailer traveling on an interstate highway at dusk"
             fill
             priority

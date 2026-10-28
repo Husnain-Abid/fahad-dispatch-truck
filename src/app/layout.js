@@ -35,7 +35,7 @@ export const metadata = {
     description: siteConfig.description,
     images: [
       {
-        url: "/images/hero-interstate.jpg",
+        url: "/images/hero-interstate.png",
         width: 1200,
         height: 630,
         alt: "Semi-truck traveling on an interstate highway at dusk",
@@ -46,7 +46,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Prime Nation Haul | Truck Dispatching & Carrier Support",
     description: siteConfig.description,
-    images: ["/images/hero-interstate.jpg"],
+    images: ["/images/hero-interstate.png"],
   },
   robots: {
     index: true,
